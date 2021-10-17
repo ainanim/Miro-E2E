@@ -1,4 +1,4 @@
-#MIRO E2E sign up test with "Junit" and "Selenium"
+## MIRO E2E sign up test with "Junit" and "Selenium"
 * This project is to automate the  E2E test for miro Sign Up process
 
 
